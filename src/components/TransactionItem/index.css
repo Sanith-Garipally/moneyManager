@@ -1,0 +1,22 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+}
+.history-details-container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+.history-details-container p {
+  width: 25%;
+  font-size: 18px;
+  color: #475569;
+}
+.delete-history-btn {
+  border: none;
+  outline: none;
+  background-color: white;
+}
+.delete-img {
+  width: 30px;
+}
